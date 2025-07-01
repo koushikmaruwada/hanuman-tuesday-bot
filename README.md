@@ -1,3 +1,5 @@
+![Hanuman Spotify Bot Banner](https://raw.githubusercontent.com/koushikmaruwada/hanuman-tuesday-bot/main/banner.png)
+
 # 🕉️ Hanuman Tuesday Spotify Bot 🎶
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue?logo=python)](https://www.python.org/)
